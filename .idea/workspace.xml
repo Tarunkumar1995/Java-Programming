@@ -4,13 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7babf22a-9e00-4ebf-aad6-1647e84dbd44" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaProgrammingQuestions.iml" afterDir="false" />
+    <list default="true" id="7babf22a-9e00-4ebf-aad6-1647e84dbd44" name="Changes" comment="Java Programming Questions">
+      <change afterPath="$PROJECT_DIR$/src/com/programming/LinearSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/programming/binarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/programming/java/ArraySorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/programming/java/OddNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/programming/java/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/programming/java/palindromeNUmber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/programming/java/fibonnacoSeries.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/programming/java/fibonnacoSeries.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +28,18 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="4a74aece-a168-41d3-9539-1f30e3ddf7d4" />
+        <option name="url" value="https://github.com/Tarunkumar1995/Java-Programming.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectId" id="2SqlmUcPAfhE3lo5nxuGJn7VZtR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -49,6 +63,70 @@
       <option name="presentableId" value="Default" />
       <updated>1689882154227</updated>
     </task>
+    <task id="LOCAL-00001" summary="Java Programming Questions">
+      <created>1690222032876</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1690222032876</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Java Programming Questions">
+      <created>1690225625139</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1690225625139</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Java Programming Questions">
+      <created>1690920500375</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1690920500375</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Java Programming Questions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java Programming Questions" />
   </component>
 </project>
